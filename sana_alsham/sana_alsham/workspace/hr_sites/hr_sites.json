@@ -1,0 +1,175 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"Pu8hgypxWz\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">HR Sites</span>\",\"col\":12}},{\"id\":\"NHAb1W_Aqw\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Monthly Attendance Sheet\",\"col\":4}},{\"id\":\"hirc9Aakw8\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Attendance\",\"col\":6}},{\"id\":\"-MfmjT0UqF\",\"type\":\"card\",\"data\":{\"card_name\":\"HR Sites \",\"col\":4}},{\"id\":\"QPAjx3YAkG\",\"type\":\"card\",\"data\":{\"card_name\":\"HR Supervisor\",\"col\":4}}]",
+ "creation": "2024-10-26 23:42:37.857345",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "idx": 0,
+ "is_hidden": 0,
+ "label": "HR Sites",
+ "links": [
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Employee Attendance Tool",
+   "link_count": 0,
+   "link_to": "Employee Attendance Tool",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Stop Work",
+   "link_count": 0,
+   "link_to": "Stop Work",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Employment Request",
+   "link_count": 0,
+   "link_to": "Employment Request",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Employees",
+   "link_count": 0,
+   "link_to": "Employee",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Transfer Employee Request",
+   "link_count": 0,
+   "link_to": "Transfer Employee Request",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "HR Sites ",
+   "link_count": 2,
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Employees",
+   "link_count": 0,
+   "link_to": "Employee",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Employee Attendance Tool",
+   "link_count": 0,
+   "link_to": "Employee Attendance Tool",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "HR Supervisor",
+   "link_count": 3,
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Employment Request",
+   "link_count": 0,
+   "link_to": "Employment Request",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Stop Work",
+   "link_count": 0,
+   "link_to": "Stop Work",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Employee Transfer Request",
+   "link_count": 0,
+   "link_to": "Transfer Employee Request",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  }
+ ],
+ "modified": "2024-11-19 15:45:01.831198",
+ "modified_by": "Administrator",
+ "module": "Sana Alsham",
+ "name": "HR Sites",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [
+  {
+   "role": "HR Attendance"
+  },
+  {
+   "role": "HR Manager"
+  },
+  {
+   "role": "System Manager"
+  },
+  {
+   "role": "All"
+  }
+ ],
+ "sequence_id": 39.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Monthly Attendance Sheet",
+   "link_to": "Monthly Attendance Sheet",
+   "type": "Report"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "Report Builder",
+   "label": "Attendance",
+   "link_to": "Attendance",
+   "stats_filter": "[]",
+   "type": "DocType"
+  }
+ ],
+ "title": "HR Sites"
+}
